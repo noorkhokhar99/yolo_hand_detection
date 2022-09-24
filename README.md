@@ -26,6 +26,7 @@ The training took about 10 hours on a single NVIDIA 1080TI and was performed wit
 Precision: 0.89 Recall: 0.85 F1-Score: 0.87 IoU: 69.8
 ```
 
+
 #### YOLOv3-Tiny
 
 ![Training Graph](readme/chart_yolov3-tiny_obj.png)
